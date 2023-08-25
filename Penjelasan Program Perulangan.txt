@@ -1,0 +1,10 @@
+Pada bagian button For To Do perintah ini merupakan perintah perulangan  yang berfungsi melakukan perulangan dari urutan yang terkecil sampai urutan terbesar, dimulai dari angka 0 sampai dengan angka yang telah di inputkan pada kolom Edit. Selanjutnya merupakan perintah untuk menampilkan hasil perulangan dari variabel  pada ListBox.
+
+
+Pada bagian button For Down To perintah ini merupakan perintah perulangan For Down To yang berfungsi melakukan perulangan dari urutan terbesar sampai urutan terkecil, di mulai dari angka yang di inputkan pada kolom Edit sampai dengan angka 0 yang merupakan batasan terkecil. Selanjutnya perintah untuk menampilkan hasil perulangan dari variabel  pada ListBox.
+
+Pada bagian button Repeat Until perintah ini merupakan perintah perulangan Repeat Until yang berfungsi untuk melakukan perulangan pada nilai variabel yang terus bertambah dan terus di cetak pada kolom ListBox sampai nantinya berhenti pada batasan variabel yang telah di inputkan pada kolom Edit.
+
+
+
+Pada bagian button Clear perintah ini berfungsi untuk membersihkan atau menghapus inputan yang terdapat pada kolom Edit dan untuk membersihkan output yang terdapat pada kolom ListBox.
